@@ -20,16 +20,9 @@ export default hopeTheme({
 
   blog: {
     medias: {
-      Baidu: "https://example.com",
       BiliBili: "https://example.com",
-      Bitbucket: "https://example.com",
-      Dingding: "https://example.com",
-      Discord: "https://example.com",
-      Dribbble: "https://example.com",
       Email: "https://example.com",
-      Evernote: "https://example.com",
       Facebook: "https://example.com",
-      Flipboard: "https://example.com",
       Gitee: "https://example.com",
       GitHub: "https://example.com",
       Gitlab: "https://example.com",
@@ -37,7 +30,6 @@ export default hopeTheme({
       Instagram: "https://example.com",
       Lark: "https://example.com",
       Lines: "https://example.com",
-      Linkedin: "https://example.com",
       Pinterest: "https://example.com",
       Pocket: "https://example.com",
       QQ: "https://example.com",
